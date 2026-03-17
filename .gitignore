@@ -1,0 +1,7 @@
+# Built binary
+venmo_tiller_fix
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
